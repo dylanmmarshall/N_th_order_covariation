@@ -1,4 +1,4 @@
-# N th Order Covariation Determination in MSAs
+# Nth Order Covariation Determination in MSAs
 
 This repository is an attempt at determining the first three orders of covariation within a multiple sequence alignment (MSA) using a multivariate Maclaurin expansion of a trained autoencoder. A suite of autoencoders are evaluated. This framework extends 1st order pairwise sequence saliency analysis to distinguish 0th order sitewise interactions and 2nd order triwise interactions within a MSA.
 

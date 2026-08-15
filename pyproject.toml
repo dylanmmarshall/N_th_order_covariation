@@ -1,0 +1,17 @@
+[project]
+name = "higher-order-relations"
+version = "0.1.0"
+description = "Nth order covariation extraction from MSAs using autoencoder derivatives"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = [
+    "flax>=0.12.2",
+    "ipykernel>=7.1.0",
+    "jax>=0.8.2",
+    "matplotlib>=3.10.8",
+    "modal>=1.0.0",
+    "numpy>=2.4.0",
+    "optax>=0.2.6",
+    "scipy>=1.16.3",
+]

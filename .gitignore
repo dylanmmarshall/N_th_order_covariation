@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data files (large)
+*.zip
+data/AF-P0AA25-F1-msa_v6.npz
+results/hess_*.npy
+tmp/
+
+# Editor settings
+.vscode/
+
+# Jupyter notebook outputs
+autoencoders_jax.ipynb
+
+# Markdown files (except README)
+*.md
+!README.md
+
+# macOS
+.DS_Store
